@@ -1,5 +1,5 @@
-# <img align="left" width="100" height="100" src="https://tse2.mm.bing.net/th?id=OIP.aQ_Lww0o3_FFbng8mFqXawHaHa&pid=Api&P=0"> # LGU-Davao
-***
+# <img align="left" width="100" height="100" src="https://tse2.mm.bing.net/th?id=OIP.aQ_Lww0o3_FFbng8mFqXawHaHa&pid=Api&P=0"> 
+# LGU-Davao
 
 ## Frameworks Used:
 ```
@@ -21,4 +21,4 @@
 `Quality control of stock`
 `Distribute or sell stock`
 ```
-# <img align="center" width="100" height="100" src="https://images.edrawmax.com/examples/use-case-diagram-examples/example5.png">
+# <img src="https://images.edrawmax.com/examples/use-case-diagram-examples/example5.png">
