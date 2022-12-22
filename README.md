@@ -3,7 +3,7 @@
 
 ## Frameworks Used:
 
-+ WordPress
+  + WordPress
 
 ## Function
 + An inventory system is a process that tracks stock, supplies and sales through an entire supply chain. Companies use inventory systems to ensure they know exactly what items they have available and the location in which they reside.
@@ -12,9 +12,10 @@
 
 ## Sub-system:
 
-+ Payment for stock
-+ Provide stock or shipment
-+ Quality control of stock
-+ Distribute or sell stock
+  + Payment for stock
+  + Provide stock or shipment
+  + Quality control of stock
+  + Distribute or sell stock
 
+## Stock Management System 
 # <img src="https://images.edrawmax.com/examples/use-case-diagram-examples/example5.png">
