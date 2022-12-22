@@ -3,14 +3,14 @@
 
 ## Frameworks Used:
 ```
-`WordPress`
+: WordPress
 ```  
 ***   
 
 ## Function
-+An inventory system is a process that tracks stock, supplies and sales through an entire supply chain. Companies use inventory systems to ensure they know exactly what items they have available and the location in which they reside.
++ An inventory system is a process that tracks stock, supplies and sales through an entire supply chain. Companies use inventory systems to ensure they know exactly what items they have available and the location in which they reside.
 
-+Inventory systems provide detailed records of new and returned products as they're entering or leaving the warehouse to help companies organize and account for their stock. These systems can also track data such as the number of units, cost per unit, serial number, lot numbers, purchase dates and production dates.
++ Inventory systems provide detailed records of new and returned products as they're entering or leaving the warehouse to help companies organize and account for their stock. These systems can also track data such as the number of units, cost per unit, serial number, lot numbers, purchase dates and production dates.
 
 ***
 
